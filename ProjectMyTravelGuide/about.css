@@ -1,0 +1,88 @@
+body {
+    height: 100%;
+    background-color: white;
+}
+
+#navcol {
+    color: white;
+    font-size: 20px;
+}
+
+#navcol :hover {
+    color: white;
+}
+
+#search {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#button-search {
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#boxKonten {
+    padding-bottom: 10px;
+}
+
+#a1 {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+#konten p {
+    text-align: left;
+    padding: 0;
+}
+
+#boxKonten img {
+    text-align: left;
+}
+
+img {
+    width: 225px;
+    height: 250px;
+    padding: 15px;
+}
+
+address {
+    text-align: left;
+}
+
+.footer {
+    border: 5px solid darkcyan;
+    background-color: darkslategray;
+}
+
+#form {
+    color: white;
+}
+
+table {
+    border: 2px solid white;
+    margin-bottom: 7px;
+}
+
+table tr {
+    border: 2px solid white;
+}
+
+table tr td {
+    border: 2px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+#form h1 {
+    padding-bottom: 13px;
+}
+
+#form_pesan {
+    padding-bottom: 10px;
+}
+
+#form_pesan h1 {
+    padding-bottom: 5px;
+}

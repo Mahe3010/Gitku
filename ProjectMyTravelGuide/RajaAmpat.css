@@ -1,0 +1,68 @@
+body {
+    height: 100%;
+    background-color: midnightblue;
+}
+
+a.nav-link {
+    color: white;
+    font-size: 20px;
+}
+
+a.nav-link :hover {
+    color: white;
+}
+
+#search {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#button-search {
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#total {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#button-reset {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#carouselmisol img {
+    padding-top: 0px;
+    padding-bottom: 15px;
+    width: 500px;
+    height: 600px;
+}
+
+#isi {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #48D1CC;
+}
+
+h3 {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 70px;
+}
+
+h4 {
+    padding-top: 35px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    text-align: left;
+}
+
+h5 {
+    text-align: center;
+    font-size: 35px;
+}
+
+#dropdown {
+    float: right;
+}

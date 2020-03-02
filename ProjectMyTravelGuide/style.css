@@ -1,0 +1,112 @@
+body {
+    height: 100%;
+    background-color: #48D1CC;
+}
+
+a.nav-link {
+    color: white;
+    font-size: 20px;
+}
+
+a.nav-link :hover {
+    color: white;
+}
+
+#search {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#button-search {
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#total {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#button-reset {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#daftar {
+    margin-left: 20px;
+}
+
+#dropdown {
+    margin-top: -40px;
+    margin-right: 18px;
+    float: right;
+}
+
+.jumbotron {
+    background-image: url(gambarku/pasirputih.jpg);
+    background-size: cover;
+    margin-top: -50px;
+    height: 600px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 55px;
+    padding-top: 150px;
+    color: white;
+}
+
+.jumbotron p {
+    font-size: 25px;
+    color: white;
+}
+
+#main3 {
+    background-color: lightseagreen;
+}
+
+#destinasi {
+    margin-top: -40px;
+    margin-right: 2px;
+}
+
+.card-deck .text-break {
+    text-align: justify;
+}
+
+#imgcard1 {
+    height: 222px;
+}
+
+#imgcard3 {
+    height: 223px;
+}
+
+.modal img {
+    height: 300px;
+}
+
+p .modal-text {
+    text-align: justify;
+}
+
+.modal-footer #hrg {
+    text-align: left;
+}
+
+.gambar {
+    background-image: url();
+}
+
+@media (max-width: 768px) and (min-width: 576px) {
+    .card-deck .card {
+        flex: inherit;
+        margin-bottom: 15px;
+    }
+}
+
+#form2 {
+    text-align: center;
+    font-size: 25px;
+    padding-top: -15px;
+}
